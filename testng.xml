@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/SELJAVA_Full/SELJAVA_FULL_APR">
+        <classes>
+            <class name="testngSuite.TestNGSuite">
+                <methods>
+                    <include name="TC1"/>
+                    <include name="TC2"/>
+                    <include name="TC3"/>
+                    <include name="TC4"/>
+                </methods>
+            </class>
+            <class name="testngSuite.TestNGSuite1">
+                <methods>
+                    <include name="TC1"/>
+                    <include name="TC2"/>
+                    <include name="TC3"/>
+                    <include name="TC4"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

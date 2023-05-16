@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f74da7f-c1f5-4ca9-a8be-fd1aa4a7f0cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_DefaultAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_PrivateAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_ProtectedAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_PublicAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/DefaultAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/PrivateAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/ProtectedAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/PublicAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/HierarchicalInheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/MultilevelInheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/methods/ArithmeticOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Access1_DefaultAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Access1_ProtectedAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Access1_PublicAccessModifierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oops/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/MethodOverloadingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/MethodOverridingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2O0ugey9BYeDv9L6pZfJcjbVXGM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SELJAVA_Full/SELJAVA_FULL_APR&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testngSuite" />
+      <recent name="accessmodifiers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/SELJAVA_Full/SELJAVA_FULL_APR/testng.xml">
+    <configuration name="C:/SELJAVA_Full/SELJAVA_FULL_APR/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELJAVA_FULL_APR" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELJAVA_FULL_APR" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testngSuite" />
+      <option name="MAIN_CLASS_NAME" value="testngSuite.TestNGSuite" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter2" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGSuite.TC2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELJAVA_FULL_APR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngSuite" />
+      <option name="MAIN_CLASS_NAME" value="testngSuite.TestNGSuite" />
+      <option name="METHOD_NAME" value="TC2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGSuite.TC3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELJAVA_FULL_APR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngSuite" />
+      <option name="MAIN_CLASS_NAME" value="testngSuite.TestNGSuite" />
+      <option name="METHOD_NAME" value="TC3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGSuite.TC4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SELJAVA_FULL_APR" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngSuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testngSuite" />
+      <option name="MAIN_CLASS_NAME" value="testngSuite.TestNGSuite" />
+      <option name="METHOD_NAME" value="TC4" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/SELJAVA_Full/SELJAVA_FULL_APR/testng.xml" />
+      <item itemvalue="TestNG.TestNGSuite" />
+      <item itemvalue="TestNG.TestNGSuite.TC2" />
+      <item itemvalue="TestNG.TestNGSuite.TC3" />
+      <item itemvalue="TestNG.TestNGSuite.TC4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/SELJAVA_Full/SELJAVA_FULL_APR/testng.xml" />
+        <item itemvalue="TestNG.TestNGSuite" />
+        <item itemvalue="TestNG.TestNGSuite.TC4" />
+        <item itemvalue="TestNG.TestNGSuite.TC3" />
+        <item itemvalue="TestNG.TestNGSuite.TC2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f74da7f-c1f5-4ca9-a8be-fd1aa4a7f0cb" name="Changes" comment="" />
+      <created>1680707339890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680707339890</updated>
+    </task>
+    <servers />
+  </component>
+</project>
