@@ -29,6 +29,7 @@ public class TestNGSuite1 {
         obj2.addition(7,7,7);
 
     }
+
 }
 
 

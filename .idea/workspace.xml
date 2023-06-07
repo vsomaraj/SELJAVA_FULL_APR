@@ -5,34 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f74da7f-c1f5-4ca9-a8be-fd1aa4a7f0cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_DefaultAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_PrivateAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_ProtectedAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/Access_PublicAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/DefaultAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/PrivateAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/ProtectedAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessmodifiers/PublicAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/HierarchicalInheritanceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/MultilevelInheritanceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/methods/ArithmeticOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Access1_DefaultAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Access1_ProtectedAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Access1_PublicAccessModifierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oops/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/MethodOverloadingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/MethodOverridingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageobjects/LogoutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testngSuite/TestNGSuite1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

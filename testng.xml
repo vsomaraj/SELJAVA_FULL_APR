@@ -9,6 +9,10 @@
                     <include name="TC2"/>
                     <include name="TC3"/>
                     <include name="TC4"/>
+                    <include name="getWebDriverInstance"/>
+                    <include name="openTheApplication"/>
+                    <include name="LoginToTheApplication"/>
+                    <include name="LogoutFromTheApplication"/>
                 </methods>
             </class>
             <class name="testngSuite.TestNGSuite1">
